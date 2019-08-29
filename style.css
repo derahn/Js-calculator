@@ -38,7 +38,6 @@ body {
 
 .output {
     grid-column: 1 / -1;
-    color: antiquewhite;
     background-color: grey;
     display: flex;
     align-items: flex-end;
@@ -55,4 +54,5 @@ body {
 }
 .output .lower {
     font-size: 2rem;
+    color: antiquewhite;
 }
