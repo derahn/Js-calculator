@@ -7,6 +7,7 @@ This is a simple design of a calculator. It is fully responsive and inspired fro
 
 ---
 
+- img
 - Index.html
 - style.css
 - script.js
